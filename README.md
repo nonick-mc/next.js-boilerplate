@@ -1,5 +1,5 @@
 # my-nextjs-boilerplate
-🔧 開発で[Next.js](https://nextjs.org/)を使用する時のための個人用テンプレート
+🔧 [Next.js](https://nextjs.org)の個人用テンプレート
 
 🪄 `create-next-app`で生成されたひな形に次の変更が加えられています。
 * [NextUI](https://nextui.org) のセットアップ
