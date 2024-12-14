@@ -1,4 +1,4 @@
-nextjs-boilerplate
+# nextjs-boilerplate
 Next.jsの個人用テンプレート
 
 * [NextUI](https://nextui.org) のセットアップ
